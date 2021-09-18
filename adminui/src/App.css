@@ -1,0 +1,54 @@
+td,
+th {
+  width: 10%;
+  height: 30px;
+  text-align: start;
+  border-bottom: 1px solid #afafaf;
+  padding: 10px;
+  font-size: 17px;
+}
+th {
+  font-weight: bold;
+}
+.searchElement {
+  width: 95%;
+  height: 30px;
+  margin: 10px;
+}
+.activeButton {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  border: 0;
+  background-color: #34c0eb;
+  color: white;
+  margin: 4px;
+}
+.deleteAllButton {
+  background-color: red;
+  color: white;
+  height: 30px;
+  width: 100px;
+  border: 0;
+  border-radius: 20px;
+  margin: 20px;
+}
+.inactiveButton {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  border: 1px solid black;
+  color: black;
+  background-color: #afafaf;
+  color: white;
+  margin: 4px;
+}
+.presentButton {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  border: 1px solid #34c0eb;
+  background-color: white;
+  color: #34c0eb;
+  margin: 4px;
+}
